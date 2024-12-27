@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.shp filter=lfs diff=lfs merge=lfs -text
+IPUMS/microdata_extract_11/usa_00011.csv filter=lfs diff=lfs merge=lfs -text
+/Users/raoulherskoits/Documents/GIS\\[[:space:]]Work/BMT_Thesis/IPUMS/microdata_extract_11/usa_00011.csv filter=lfs diff=lfs merge=lfs -text
+IPUMS/gis_extract_3/nhgis0003_shape/nhgis0003_shapefile_tl2000_us_tract_1960/US_tractcounty_1960.shp filter=lfs diff=lfs merge=lfs -text
